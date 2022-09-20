@@ -1,8 +1,3 @@
-
-ADLEY LAMUEL S URK21CS1186 <adleylamuel@karunya.edu.in>
-11:23 AM (31 minutes ago)
-to steivejames, mohamedthaha, me, anitathangam
-
 import re
 
 def display_hash(hashtable) -> None:
